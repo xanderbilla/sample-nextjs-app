@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 270",
+    "price": 150,
+    "img": "/images/nike-air-max-270.png",
+    "category": "Accessories",
+    "description": "The Nike Air Max 270 delivers visible air under every step. Updated for modern comfort, it pays homage to the original 1991 Air Max 180 with an exaggerated tongue top and heritage logo.",
+    "color": ["black", "white"],
+    "size": ["S", "M", "L", "XL"],
+    "imgSet": [
+      {
+        "src": "/images/nike-air-max-270-1.png",
+        "alt": "Nike Air Max 270"
+      },
+      {
+        "src": "/images/nike-air-max-270-2.png",
+        "alt": "Nike Air Max 270"
+      }
+    ],
+    "isTrending": true
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Max 90",
+    "price": 120,
+    "img": "/images/nike-air-max-90.png",
+    "category": "Accessories",
+    "description": "The Nike Air Max 90 stays true to its OG roots with its iconic Waffle outsole, stitched overlays and classic, color-accented TPU plates. Retro colors celebrate the first generation while Max Air cushioning adds comfort to your journey.",
+    "color": ["black", "white"],
+    "size": ["S", "M", "L", "XL"],
+    "imgSet": [
+      {
+        "src": "/images/nike-air-max-90-1.png",
+        "alt": "Nike Air Max 90"
+      },
+      {
+        "src": "/images/nike-air-max-90-2.png",
+        "alt": "Nike Air Max 90"
+      }
+    ],
+    "isTrending": true
+  },
+  {
+    "id": 3,
+    "name": "Adidas Superstar",
+    "price": 80,
+    "img": "/images/adidas-superstar.png",
+    "category": "Men",
+    "description": "The Adidas Superstar is a classic sneaker that never goes out of style. With its iconic shell toe and three stripes design, it's a must-have for any sneakerhead.",
+    "color": ["black", "white"],
+    "size": ["7", "8", "9", "10"],
+    "imgSet": [
+      {
+        "src": "/images/adidas-superstar-1.png",
+        "alt": "Adidas Superstar"
+      },
+      {
+        "src": "/images/adidas-superstar-2.png",
+        "alt": "Adidas Superstar"
+      }
+    ],
+    "isTrending": true
+  },
+  {
+    "id": 4,
+    "name": "Converse Chuck Taylor",
+    "price": 60,
+    "img": "/images/converse-chuck-taylor.png",
+    "category": "Women",
+    "description": "The Converse Chuck Taylor is a timeless classic that never goes out of style. With its canvas upper and rubber sole, it's perfect for everyday wear.",
+    "color": ["black", "white"],
+    "size": ["6", "7", "8", "9"],
+    "imgSet": [
+      {
+        "src": "/images/converse-chuck-taylor-1.png",
+        "alt": "Converse Chuck Taylor"
+      },
+      {
+        "src": "/images/converse-chuck-taylor-2.png",
+        "alt": "Converse Chuck Taylor"
+      }
+    ],
+    "isTrending": true
+  },
+  {
+    "id": 5,
+    "name": "Vans Old Skool",
+    "price": 70,
+    "img": "/images/vans-old-skool.png",
+    "category": "Kids",
+    "description": "The Vans Old Skool is a classic skate shoe that's perfect for kids. With its durable canvas upper and signature waffle outsole, it's built to withstand the demands of skateboarding.",
+    "color": ["black", "white"],
+    "size": ["3", "4", "5", "6"],
+    "imgSet": [
+      {
+        "src": "/images/vans-old-skool-1.png",
+        "alt": "Vans Old Skool"
+      },
+      {
+        "src": "/images/vans-old-skool-2.png",
+        "alt": "Vans Old Skool"
+      }
+    ],
+    "isTrending": true
+  },
+  {
+    "id": 6,
+    "name": "Ray-Ban Aviator",
+    "price": 200,
+    "img": "/images/ray-ban-aviator.png",
+    "category": "Accessories",
+    "description": "The Ray-Ban Aviator is a timeless classic that never goes out of style. With its iconic teardrop shape and metal frame, it's a must-have for any fashion enthusiast.",
+    "color": ["gold", "silver"],
+    "size": ["One Size"],
+    "imgSet": [
+      {
+        "src": "/images/ray-ban-aviator-1.png",
+        "alt": "Ray-Ban Aviator"
+      },
+      {
+        "src": "/images/ray-ban-aviator-2.png",
+        "alt": "Ray-Ban Aviator"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Puma Suede Classic",
+    "price": 90,
+    "img": "/images/puma-suede-classic.png",
+    "category": "Men",
+    "description": "The Puma Suede Classic is a stylish and versatile sneaker. With its suede upper and rubber sole, it offers both comfort and durability.",
+    "color": ["black", "white"],
+    "size": ["7", "8", "9", "10"],
+    "imgSet": [
+      {
+        "src": "/images/puma-suede-classic-1.png",
+        "alt": "Puma Suede Classic"
+      },
+      { "src": "/images/puma-suede-classic-2.png", "alt": "Puma Suede Classic" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Reebok Classic Leather",
+    "price": 80,
+    "img": "/images/reebok-classic-leather.png",
+    "category": "Women",
+    "description": "The Reebok Classic Leather is a timeless sneaker that combines style and comfort. With its leather upper and cushioned insole, it's perfect for everyday wear.",
+    "color": ["black", "white"],
+    "size": ["6", "7", "8", "9"],
+    "imgSet": [
+      {
+        "src": "/images/reebok-classic-leather-1.png",
+        "alt": "Reebok Classic Leather"
+      },
+      {
+        "src": "/images/reebok-classic-leather-2.png",
+        "alt": "Reebok Classic Leather"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Adidas Stan Smith",
+    "price": 75,
+    "img": "/images/adidas-stan-smith.png",
+    "category": "Kids",
+    "description": "The Adidas Stan Smith is a classic tennis shoe that's perfect for kids. With its leather upper and rubber outsole, it provides both style and traction.",
+    "color": ["black", "white"],
+    "size": ["3", "4", "5", "6"],
+    "imgSet": [
+      { "src": "/images/adidas-stan-smith-1.png", "alt": "Adidas Stan Smith" },
+      { "src": "/images/adidas-stan-smith-2.png", "alt": "Adidas Stan Smith" }
+    ],
+    "isTrending": true
+  },
+  {
+    "id": 10,
+    "name": "Gucci Belt",
+    "price": 350,
+    "img": "/images/gucci-belt.png",
+    "category": "Accessories",
+    "description": "The Gucci Belt is a luxury accessory that adds a touch of elegance to any outfit. With its iconic GG logo and leather construction, it's a statement piece.",
+    "color": ["black", "brown"],
+    "size": ["S", "M", "L", "XL"],
+    "imgSet": [
+      { "src": "/images/gucci-belt-1.png", "alt": "Gucci Belt" },
+      { "src": "/images/gucci-belt-2.png", "alt": "Gucci Belt" }
+    ],
+    "isTrending": true
+  }
+]
